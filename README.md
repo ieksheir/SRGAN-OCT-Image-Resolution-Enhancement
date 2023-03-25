@@ -1,1 +1,1 @@
-# SRGAN
+# SRGAN OCT Image Resolution Enhancement
